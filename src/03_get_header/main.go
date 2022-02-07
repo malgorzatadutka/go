@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	header_type, err := f.GetHeader("https://onet.pl", "Access-Control-Max-Age")
+	header_type, err := f.GetHeader("https://wp.pl", "Access-Control-Max-Age")
 	if err != nil {
 		fmt.Println(err)
 	} else {

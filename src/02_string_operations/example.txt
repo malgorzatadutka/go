@@ -1,0 +1,9 @@
+Ever since I was a little kid, science was my passion. The first love was math,
+the second was electrical engineering, but the third and also the last: programming.
+This passion for science carried me through my education at technical universities.
+The most important thing I have learned is that it is never too late to start exploring new problems.
+After graduating the university I worked as an electrical designer with holistic knowledge of electric power engineering and design.
+But my third love didn't leave me alone. Two years ago I started my career in IT.
+First it was connected with tests automation in Python, but now I develop kubernetes operators and helm charts.
+I am also interested in artificial intelligence, especially machine learning.
+So now, in industry my passion for learning remains with me.
